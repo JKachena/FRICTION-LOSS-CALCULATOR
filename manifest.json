@@ -1,0 +1,23 @@
+{
+  "short_name": "FrictionCalc",
+  "name": "Friction Loss Calculator",
+  "description": "An application to calculate Reynolds number, friction factor (Colebrook equation), and head loss (Darcy-Weisbach equation) for pipe flow.",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0d9488",
+  "background_color": "#111827"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Friction Loss Calculator",
+  "description": "An application to calculate Reynolds number, friction factor (Colebrook equation), and head loss (Darcy-Weisbach equation) for pipe flow.",
+  "requestFramePermissions": []
+}
